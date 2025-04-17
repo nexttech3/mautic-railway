@@ -1,4 +1,4 @@
-FROM mautic/mautic:5.1-apache
+FROM mautic/mautic:5.2.4-apache
 
 ARG MAUTIC_DB_HOST
 ARG MAUTIC_DB_USER
